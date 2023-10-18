@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+input {
+    width: 300px;
+    padding: 5px;
+    margin-right: 10px;
+}
+
+button#agregarTexto {
+    padding: 5px 10px;
+    background-color: green; /* Cambio de color a verde */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button#borrarUltimaEntrada {
+    padding: 5px 10px;
+    background-color: red; /* Cambio de color a rojo */
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
